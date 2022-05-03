@@ -7,7 +7,7 @@ AWS Identity and Access Management (IAM) is a web service that helps you securel
 
 **Policies:**
 
-- postman policy for aws apigatway & cloudwatch (https://www.postman.com/)
+- postman policy for aws apigateway & cloudwatch (https://www.postman.com/)
 
 **Documentation:**
 
