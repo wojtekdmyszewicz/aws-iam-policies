@@ -1,0 +1,16 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "Stmt909923626743",
+            "Effect": "Allow",
+            "Action": [
+                "apigateway:GET",
+                "cloudwatch:GetMetricData"
+            ],
+            "Resource": [
+                "*"
+            ]
+        }
+    ]
+}
